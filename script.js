@@ -1,0 +1,1 @@
+function submitForm(e){e.preventDefault();alert('Your message has been sent (demo).');}
